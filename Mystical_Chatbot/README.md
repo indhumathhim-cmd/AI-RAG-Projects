@@ -16,4 +16,14 @@ This is a Retrieval-Augmented Generation (RAG) web application built with Stream
    cd Simple_RAGChat
 
 
+
+
+https://github.com/user-attachments/assets/d07a7256-b936-48b5-a4f2-8945478d075c
+
+<img width="1827" height="978" alt="Mystical Chatbot_Screenshot" src="https://github.com/user-attachments/assets/1f64d34a-3066-48b6-b09a-1ff43e203fa3" />
+
+
+
+
+
    
