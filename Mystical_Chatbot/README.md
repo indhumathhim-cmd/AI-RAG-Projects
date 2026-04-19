@@ -9,9 +9,11 @@ This is a Retrieval-Augmented Generation (RAG) web application built with Stream
 * **Vector Store:** FAISS (Facebook AI Similarity Search)
 * **Document Parsing:** PyPDF2 & RecursiveCharacterTextSplitter
 
-## 🚀 How to Run This App Locally
+ ## 🚀 How to Run This App Locally
 
 1. **Clone the repository and navigate to this folder:**
    ```bash
    cd Simple_RAGChat
+
+
    
