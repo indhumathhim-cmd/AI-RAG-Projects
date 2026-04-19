@@ -425,3 +425,8 @@ After running this demo:
 ---
 
 **Happy Demoing!** Show the world the power of Knowledge Graphs!
+
+<img width="1872" height="980" alt="Screenshot 2026-04-19 175825" src="https://github.com/user-attachments/assets/9a2f38e1-7d7f-47c8-ab30-23c1105f2695" />
+
+<img width="1872" height="980" alt="Screenshot 2026-04-19 175825" src="https://github.com/user-attachments/assets/288461b4-4697-40c1-8aa2-8837aa6a561f" />
+
